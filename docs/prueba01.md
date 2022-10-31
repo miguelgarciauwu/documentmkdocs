@@ -34,7 +34,7 @@
     }
 
 
-este se actualiza instanteamoen 
+este se actualiza instanteamente en git ahor asolo habrai que compilar en RED THEDOCS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4NjA1MTcxXX0=
+eyJoaXN0b3J5IjpbLTE3NDI4MDc3OTVdfQ==
 -->
