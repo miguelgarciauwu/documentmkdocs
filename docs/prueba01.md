@@ -49,7 +49,8 @@ este se actualiza instanteamente en git ahor asolo habrai que compilar en RED TH
         }
 ## asdasd
 
-*ohola*
+*ohola*~~hola estoy ~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjM1MTY5MiwtMTU2MzczOTg5NV19
+eyJoaXN0b3J5IjpbMjA0NjA2MjczMiwtMzk2MzUxNjkyLC0xNT
+YzNzM5ODk1XX0=
 -->
