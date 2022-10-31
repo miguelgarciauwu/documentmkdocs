@@ -6,6 +6,11 @@
  - 4
  - 5
  - 6
+ 
+|  1| 2 |
+|--|--|
+|  |  |
+
  ![enter image description here](https://pbs.twimg.com/media/FdmATb8XkAEa9Eg.jpg)
  imagen de legis 70 años 
 
@@ -38,5 +43,6 @@ este se actualiza instanteamente en git ahor asolo habrai que compilar en RED TH
 
 cambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioascambioas 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM3Mzk4OTVdfQ==
+eyJoaXN0b3J5IjpbLTE1NTk2NTMxMDQsLTE1NjM3Mzk4OTVdfQ
+==
 -->
